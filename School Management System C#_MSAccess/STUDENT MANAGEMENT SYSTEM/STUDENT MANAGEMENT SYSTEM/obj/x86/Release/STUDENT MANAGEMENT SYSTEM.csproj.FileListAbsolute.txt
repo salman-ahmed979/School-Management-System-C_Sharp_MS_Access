@@ -1,0 +1,37 @@
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\bin\Release\STUDENT MANAGEMENT SYSTEM.exe.config
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\bin\Release\Information1.mdb
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\bin\Release\STUDENT MANAGEMENT SYSTEM.exe
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\bin\Release\STUDENT MANAGEMENT SYSTEM.pdb
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.Announcement.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.Form1.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.Form10.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.Form11.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.Form12.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.Form13.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.Form14.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.Form15.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.Form16.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.Form2.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.Form3.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.Form4.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.Form5.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.Form6.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.Form7.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.Form8.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.Form9.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.location.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.Main.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.marks_check.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.profile.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.Student_Info.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.student_attendence.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.Teacher_Info.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT_MANAGEMENT_SYSTEM.view_announcement.resources
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT MANAGEMENT SYSTEM.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT MANAGEMENT SYSTEM.exe
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT MANAGEMENT SYSTEM.pdb
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\bin\Release\STUDENT MANAGEMENT SYSTEM.exe.manifest
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\bin\Release\STUDENT MANAGEMENT SYSTEM.application
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT MANAGEMENT SYSTEM.exe.manifest
+C:\Users\Lenovo\Desktop\New folder\New folder\New folder\STUDENT MANAGEMENT SYSTEM\STUDENT MANAGEMENT SYSTEM\obj\x86\Release\STUDENT MANAGEMENT SYSTEM.application
